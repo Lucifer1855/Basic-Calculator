@@ -21,3 +21,6 @@ Prerequisites
 [Language/Framework you're using, html, css, JavaScript, etc.]
 
 Overview:  https://lucifer1855.github.io/Basic-Calculator/
+
+
+![cal](https://github.com/user-attachments/assets/bff24cad-535c-46a8-83c8-20f33177adb8)
